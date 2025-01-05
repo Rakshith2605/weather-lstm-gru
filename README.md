@@ -157,37 +157,30 @@ Comprehensive visualizations were created to assess the models' performance. Act
 
 Comprehensive visualizations were created to assess the models' performance. Actual vs. predicted plots for temperature, dew point, and wind speed illustrated strong alignment. Training and validation loss curves demonstrated stable convergence and minimal overfitting, showcasing the robustness of the training process. Additionally, time-series visualizations of temperature and wind speed variation over time provided insights into trends, periodicity, and anomalies, further validating the models’ predictive capabilities. These visualizations confirmed the models' ability to generalize across varying weather conditions, reinforcing their practical applicability.
 
-![](src/3dab8fdd-1df7-4daf-93af-400220db23e2.003.jpeg)
-
+![](./src/3dab8fdd-1df7-4daf-93af-400220db23e2.003.jpeg)
 *Figure 1. Variation of Temperature over time*
 
-![](src/3dab8fdd-1df7-4daf-93af-400220db23e2.004.jpeg)
-
+![](./src/3dab8fdd-1df7-4daf-93af-400220db23e2.004.jpeg)
 *Figure 2. Variation of Wind Speed over Time*
 
-![](src/3dab8fdd-1df7-4daf-93af-400220db23e2.005.png)
-
+![](./src/3dab8fdd-1df7-4daf-93af-400220db23e2.005.png)
 *Figure 3a. Model Loss for Temperature Prediction*
 
-![](src/3dab8fdd-1df7-4daf-93af-400220db23e2.006.jpeg)
-
+![](./src/3dab8fdd-1df7-4daf-93af-400220db23e2.006.jpeg)
 *Figure 3b. Temperature Predictions Vs Actual Values*
 
-![](src/3dab8fdd-1df7-4daf-93af-400220db23e2.007.png)
-
+![](./src/3dab8fdd-1df7-4daf-93af-400220db23e2.007.png)
 *Figure 4a. Model Loss for Dew Point Prediction*
 
-![](src/3dab8fdd-1df7-4daf-93af-400220db23e2.008.png)
-
+![](./src/3dab8fdd-1df7-4daf-93af-400220db23e2.008.png)
 *Figure 3b. Dew Point Predictions Vs Actual Values*
 
-![](src/3dab8fdd-1df7-4daf-93af-400220db23e2.009.jpeg)
-
+![](./src/3dab8fdd-1df7-4daf-93af-400220db23e2.009.jpeg)
 *Figure 3b. Model Loss for Wind Speed Predictions*
 
-![](src/3dab8fdd-1df7-4daf-93af-400220db23e2.010.jpeg)
-
+![](./src/3dab8fdd-1df7-4daf-93af-400220db23e2.010.jpeg)
 *Figure 3b. Wind Speed Predictions Vs Actual Values*
+
 **Discussion** 
 
 The LSTM models achieved notable success in predicting weather parameters, with particularly high accuracy for dew point and wind speed predictions. The models performed best for short- and medium-term forecasts, with slight performance declines observed for long-term predictions. This indicates the potential for further enhancements, such as exploring hybrid models that combine LSTMs with attention mechanisms to improve long-term forecasting capabilities. 
