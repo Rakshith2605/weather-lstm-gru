@@ -167,23 +167,23 @@ Comprehensive visualizations were created to assess the models' performance. Act
 
 *Figure 3a. Model Loss for Temperature Prediction* 
 
-![](Aspose.Words.3dab8fdd-1df7-4daf-93af-400220db23e2.006.jpeg)
+![](./src/Aspose.Words.3dab8fdd-1df7-4daf-93af-400220db23e2.006.jpeg)
 
 *Figure 3b. Temperature Predictions Vs Actual Values* 
 
-![](Aspose.Words.3dab8fdd-1df7-4daf-93af-400220db23e2.007.png)
+![](./src/Aspose.Words.3dab8fdd-1df7-4daf-93af-400220db23e2.007.png)
 
 *Figure 4a. Model Loss for Dew Point prediction* 
 
-![](Aspose.Words.3dab8fdd-1df7-4daf-93af-400220db23e2.008.png)
+![](./src/Aspose.Words.3dab8fdd-1df7-4daf-93af-400220db23e2.008.png)
 
 *Figure 3b. Dew Point Predictions Vs Actual Values* 
 
-![](Aspose.Words.3dab8fdd-1df7-4daf-93af-400220db23e2.009.jpeg)
+![](./src/Aspose.Words.3dab8fdd-1df7-4daf-93af-400220db23e2.009.jpeg)
 
 *Figure 3b. Model Loss for Wind Speed Predictions* 
 
-![](Aspose.Words.3dab8fdd-1df7-4daf-93af-400220db23e2.010.jpeg)
+![](./src/Aspose.Words.3dab8fdd-1df7-4daf-93af-400220db23e2.010.jpeg)
 
 *Figure 3b. Wind Speed Predictions Vs Actual Values* 
 
