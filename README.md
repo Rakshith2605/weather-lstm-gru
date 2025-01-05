@@ -1,4 +1,4 @@
-*Weather Forecasting using LSTMs*
+* Weather Forecasting using LSTMs *
 
 **Weather Forecasting Model Using LSTMs** 
 
